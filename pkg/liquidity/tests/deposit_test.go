@@ -9,9 +9,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	liqerr "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/errors"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/liquidity"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/types"
+	liqerr "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/errors"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/liquidity"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/types"
 )
 
 func TestPlanGatewayDeposit_HappyExactN(t *testing.T) {

@@ -20,13 +20,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/envfile"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/execenv"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/httpserver"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/inventory"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/rpcenv"
-	liqerr "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/errors"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/liquidity"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/envfile"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/execenv"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/httpserver"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/inventory"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/rpcenv"
+	liqerr "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/errors"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/liquidity"
 )
 
 func main() {

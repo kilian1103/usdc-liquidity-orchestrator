@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	liqerr "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/errors"
+	liqerr "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/errors"
 )
 
 // ChainInfo describes a registered EVM corridor for plan / future execute.

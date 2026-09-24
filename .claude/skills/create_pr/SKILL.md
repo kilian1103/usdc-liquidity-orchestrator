@@ -31,4 +31,4 @@ git push -u origin HEAD
 gh pr create --title "..." --body "..."
 ```
 
-Target `main` on `kaimo-no/usdc-liquidity-orchestrator`.
+Target `main` on `kilian1103/usdc-liquidity-orchestrator`.

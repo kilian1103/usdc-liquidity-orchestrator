@@ -5,7 +5,7 @@ import (
 
 	"github.com/shopspring/decimal"
 
-	liqerr "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/errors"
+	liqerr "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/errors"
 )
 
 // PlanGatewayDeposit plans a fixed-N native USDC deposit into Circle Gateway (no pay_to/fee).

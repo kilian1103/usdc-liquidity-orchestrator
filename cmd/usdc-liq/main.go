@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/envfile"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/liqcli"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/envfile"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/liqcli"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package liquidity
 import (
 	"context"
 
-	liqerr "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/errors"
+	liqerr "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/errors"
 )
 
 // Non-secret Circle Gateway addresses (for prepare_calls + future live Executor).

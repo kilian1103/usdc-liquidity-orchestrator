@@ -6,9 +6,9 @@ import (
 
 	"github.com/shopspring/decimal"
 
-	liqerr "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/errors"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/liquidity"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/types"
+	liqerr "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/errors"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/liquidity"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/types"
 )
 
 // RunPlan shortfall-plans and optionally executes. Pre-plan errors return StampFail

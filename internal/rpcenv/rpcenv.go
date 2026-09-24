@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/liquidity"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/liquidity"
 )
 
 // Friendly env names (placeholders) → CAIP-2 chain id.

@@ -5,7 +5,7 @@ import (
 
 	"github.com/shopspring/decimal"
 
-	liqerr "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/errors"
+	liqerr "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/errors"
 )
 
 // PlanSelfRebalance plans Phase B shortfall land N on dest agent_self (no pay_to/fee).

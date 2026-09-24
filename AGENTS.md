@@ -4,7 +4,7 @@ Compact context for coding agents in this repository.
 
 ## What this is
 
-Public Go library + CLI + thin HTTP service (equal peers) + product skill: **non-custodial multi-chain USDC liquidity planning** for agentic commerce (Circle Gateway preferred, CCTP fallback). Module: `github.com/kaimo-no/usdc-liquidity-orchestrator`. Surfaces: `pkg/liquidity` · `cmd/usdc-liq` · `cmd/server` · `skills/usdc-liquidity/`.
+Public Go library + CLI + thin HTTP service (equal peers) + product skill: **non-custodial multi-chain USDC liquidity planning** for agentic commerce (Circle Gateway preferred, CCTP fallback). Module: `github.com/kilian1103/usdc-liquidity-orchestrator`. Surfaces: `pkg/liquidity` · `cmd/usdc-liq` · `cmd/server` · `skills/usdc-liquidity/`.
 
 ## Read first
 

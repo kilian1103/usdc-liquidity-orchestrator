@@ -2,7 +2,7 @@
 
 Product skill for **non-custodial multi-chain USDC rebalancing** (Circle Gateway preferred, CCTP fallback).
 
-Module: `github.com/kaimo-no/usdc-liquidity-orchestrator`
+Module: `github.com/kilian1103/usdc-liquidity-orchestrator`
 
 ## Surfaces (equal peers)
 
