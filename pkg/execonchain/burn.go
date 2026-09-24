@@ -19,8 +19,8 @@ import (
 	"github.com/ethereum/go-ethereum/signer/core/apitypes"
 	"github.com/shopspring/decimal"
 
-	liqerr "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/errors"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/liquidity"
+	liqerr "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/errors"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/liquidity"
 )
 
 // Default max fee for burn intents (2.01 USDC atomic). Override via GATEWAY_MAX_FEE_ATOMIC.

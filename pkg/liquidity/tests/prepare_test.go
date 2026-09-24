@@ -9,7 +9,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/liquidity"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/liquidity"
 )
 
 func TestPrepareCalls_DepositGolden(t *testing.T) {

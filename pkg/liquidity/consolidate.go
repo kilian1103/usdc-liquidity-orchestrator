@@ -6,7 +6,7 @@ import (
 
 	"github.com/shopspring/decimal"
 
-	liqerr "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/errors"
+	liqerr "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/errors"
 )
 
 // PlanConsolidate plans multi-chain full-balance Circle Gateway deposits (no pay_to/fee).

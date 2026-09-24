@@ -11,8 +11,8 @@ import (
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/shopspring/decimal"
 
-	liqerr "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/errors"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/liquidity"
+	liqerr "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/errors"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/liquidity"
 )
 
 // Named source env → CAIP-2 (MVP testnets only; registry USDC, no env USDC override).

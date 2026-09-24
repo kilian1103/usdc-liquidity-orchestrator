@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | Org | [`kaimo-no`](https://github.com/kaimo-no) |
-| Module | `github.com/kaimo-no/usdc-liquidity-orchestrator` |
+| Module | `github.com/kilian1103/usdc-liquidity-orchestrator` |
 | License | Apache-2.0 |
 | Status | L0–L1 shipped · L2 fail-closed default · optional testnet Gateway deposit + burn/mint |
 
@@ -30,7 +30,7 @@ Docs for agents: **[`CLAUDE.md`](./CLAUDE.md)** · **[`AGENTS.md`](./AGENTS.md)*
 ## Quick start
 
 ```bash
-git clone https://github.com/kaimo-no/usdc-liquidity-orchestrator.git
+git clone https://github.com/kilian1103/usdc-liquidity-orchestrator.git
 cd usdc-liquidity-orchestrator
 go test ./...
 go run ./cmd/usdc-liq plan -f examples/plan.json
@@ -45,7 +45,7 @@ docker compose up --build
 ### Library
 
 ```go
-import "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/liquidity"
+import "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/liquidity"
 
 plan, err := liquidity.PlanLiquidity(req, inv, nil)
 wire := liquidity.PlanToWire(plan)

@@ -8,7 +8,7 @@
 ## Clone
 
 ```bash
-git clone https://github.com/kaimo-no/usdc-liquidity-orchestrator.git
+git clone https://github.com/kilian1103/usdc-liquidity-orchestrator.git
 cd usdc-liquidity-orchestrator
 go mod download
 ```

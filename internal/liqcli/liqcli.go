@@ -12,13 +12,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/demorun"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/execenv"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/inventory"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/planio"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/rpcenv"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/liquidity"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/types"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/demorun"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/execenv"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/inventory"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/planio"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/rpcenv"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/liquidity"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/types"
 )
 
 // Version is reported by the version subcommand.

@@ -7,8 +7,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/scenario"
-	liqerr "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/errors"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/scenario"
+	liqerr "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/errors"
 )
 
 func TestScale_T1_Scale10_300Plus100Equals400(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/envfile"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/envfile"
 )
 
 func TestLoad_MissingFile_Noop(t *testing.T) {

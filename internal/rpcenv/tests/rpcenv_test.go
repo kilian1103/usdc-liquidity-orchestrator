@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/rpcenv"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/rpcenv"
 )
 
 func TestLoadFromEnv_NamedPlaceholders(t *testing.T) {

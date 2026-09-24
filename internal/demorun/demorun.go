@@ -13,12 +13,12 @@ import (
 
 	"github.com/shopspring/decimal"
 
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/inventory"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/rpcenv"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/internal/scenario"
-	liqerr "github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/errors"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/execonchain"
-	"github.com/kaimo-no/usdc-liquidity-orchestrator/pkg/liquidity"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/inventory"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/rpcenv"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/internal/scenario"
+	liqerr "github.com/kilian1103/usdc-liquidity-orchestrator/pkg/errors"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/execonchain"
+	"github.com/kilian1103/usdc-liquidity-orchestrator/pkg/liquidity"
 )
 
 // Run executes the demo sequence writing JSON plans to stdout and notes to stderr.
